@@ -1,0 +1,29 @@
+body {
+    font-family: Roboto;
+    color: #2E2F42;
+    background: #FFF;
+}
+
+.logo {
+    color: var(--IRIS, #4D5AE5);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: 21px; /* 116.667% */
+letter-spacing: 0.54px;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+.logo2 {
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: 21px; /* 116.667% */
+letter-spacing: 0.54px;
+text-transform: uppercase;
+text-decoration: none;
+}
+
