@@ -21,9 +21,11 @@ body {
 }
 
 .logo a:link {
+  text-decoration: none;
 }
 
 .logo2 a:link {
+  text-decoration: none;
 }
 
 .logo2 {
