@@ -20,6 +20,9 @@ body {
   text-decoration: none;
 }
 
+.logo a:link {
+}
+
 .logo2 {
   color: #2e2f42;
   font-family: Raleway, sans-serif;
