@@ -4,6 +4,10 @@ body {
   background-color: #ffffff;
 }
 
+:root {
+  --brand-color: #fff;
+}
+
 .logo {
   color: var(--IRIS, #4d5ae5);
   font-family: Raleway, sans-serif;
