@@ -8,6 +8,10 @@ body {
   --brand-color: #fff;
 }
 
+.list {
+  list-style: none;
+}
+
 .logo {
   color: var(--IRIS, #4d5ae5);
   font-family: Raleway, sans-serif;
@@ -41,10 +45,6 @@ body {
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
-}
-
-.list {
-  list-style: none;
 }
 
 .list-studio {
