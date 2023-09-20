@@ -47,7 +47,7 @@ body {
   text-decoration: none;
 }
 
-.list-studio {
+.studio-li {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -55,16 +55,35 @@ body {
   color: #2e2f42;
 }
 
-.list-studio:hover {
+.studio-li:hover {
   color: #404bbf;
 }
 
-.list-studio:focus {
+.studio-li:focus {
   color: #404bbf;
 }
 
-.link-studio {
+.link {
   text-decoration: none;
+}
+
+.adress-header {
+  font-style: normal;
+}
+
+.mailtel {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.mailtel:hover {
+  color: #404bbf;
+}
+
+.mailtel.mailtel:focus {
+  color: #404bbf;
 }
 
 .studio {
