@@ -34,7 +34,7 @@ body {
   font-size: 18px;
   font-style: normal;
   font-weight: 800;
-  line-height: 21px; /* 116.667% */
+  line-height: 1.17em; /* 116.667% */
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
@@ -54,4 +54,18 @@ body {
 
 .studio:link {
   text-decoration: none;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.logo3 {
+  color: #f4f4fd;
+}
+
+.footer-p {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
