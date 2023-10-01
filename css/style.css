@@ -157,11 +157,11 @@ body {
 }
 
 .section-three {
+  letter-spacing: 0.02em;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
-  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
