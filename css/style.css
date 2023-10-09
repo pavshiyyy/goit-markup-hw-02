@@ -37,18 +37,16 @@ body {
 
 .link {
   color: #4d5ae5;
-  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 800;
   line-height: 1.17em; /* 116.667% */
   letter-spacing: 0.54px;
-  text-transform: uppercase;
   text-decoration: none;
 }
 
 .studio-li {
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -183,6 +181,7 @@ body {
 }
 
 .section-four-li-h {
+  text-align: center;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
